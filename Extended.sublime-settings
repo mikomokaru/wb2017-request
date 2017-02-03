@@ -1,0 +1,9 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
+    "enable_table_editor": true,
+    "extensions":
+    [
+        "md"
+    ],
+    "trim_trailing_white_space_on_save": false
+}
