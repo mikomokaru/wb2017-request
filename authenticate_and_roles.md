@@ -137,7 +137,8 @@ ex.
 
 #### 従業員サイト
 * ID/PASSによる認証
-* FB/google/twitter/yahoo/line等の外部認証機関経由でのログインを実現したいが、工数次第
+* OpenID Connect?
+  * FB/google/twitter/yahoo/line/office365等の外部認証機関経由でのログインを実現したいが、工数次第
 
 ##### 本部サイト
 * ID/PASSによる認証
