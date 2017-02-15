@@ -4,6 +4,7 @@
 
 ### 機能グループの定義
 今回のWBでは、以下の通り機能を大きく３グループに分類することができる。
+
 1. 店舗業務に関する機能
 2. 従業員個人に関する機能
 3. 本部業務に関する機能
@@ -11,6 +12,7 @@
 それぞれの機能グループに応じて、サイトを別にすべきと考える。
 
 ex.
+
 1. shop.yamaokaya.winboard.jp
 2. personal.yamaokaya.winboard.jp
 3. hq.yamaokaya.winboard.jp
